@@ -14,6 +14,7 @@ This project showcases a modern UI design inspired by high-fashion brands, featu
 *Image gallery / images folder included
 *Mobile-friendly layout
 
+
 🛠️ Tech Stack
 
 1.HTML5 – page structure
@@ -42,12 +43,18 @@ This project showcases a modern UI design inspired by high-fashion brands, featu
 
 └── README.md
 
-🎯 Project Purpose
+
+🎯 Project Purpose:
+
 This website was created as part of a Software Engineering / Web Development project, focusing on:
 *UI design
+
 *Frontend development
+
 *SDLC stages (planning, design, development, testing)
+
 *Version control using Git & GitHub
+
 
 🔧 How to Run This Project
 
@@ -55,13 +62,19 @@ This website was created as part of a Software Engineering / Web Development pro
 git clone https://github.com/yourusername/yourrepo.git
 
 1.Open the project folder
+
 2.Open index.html in your browser
+
 
 ✨ Future Enhancements
 1.Add login/signup pages
+
 2.Add product pages and shopping cart
+
 3.Add backend (Node.js / Firebase)
+
 4.Add dark/light mode toggle
+
 5.Add API-based fashion suggestions
 
 
